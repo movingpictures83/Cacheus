@@ -1,0 +1,2 @@
+Prefix plugins/Cacheus/example
+Plugin Cacheus inputfile parameters.txt outputfile ./
